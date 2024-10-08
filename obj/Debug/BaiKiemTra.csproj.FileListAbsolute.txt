@@ -1,0 +1,10 @@
+D:\Desktop\Learning Winform\BaiKiemTra\bin\Debug\BaiKiemTra.exe.config
+D:\Desktop\Learning Winform\BaiKiemTra\bin\Debug\BaiKiemTra.exe
+D:\Desktop\Learning Winform\BaiKiemTra\bin\Debug\BaiKiemTra.pdb
+D:\Desktop\Learning Winform\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.AssemblyReference.cache
+D:\Desktop\Learning Winform\BaiKiemTra\obj\Debug\BaiKiemTra.Form1.resources
+D:\Desktop\Learning Winform\BaiKiemTra\obj\Debug\BaiKiemTra.Properties.Resources.resources
+D:\Desktop\Learning Winform\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.GenerateResource.cache
+D:\Desktop\Learning Winform\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.CoreCompileInputs.cache
+D:\Desktop\Learning Winform\BaiKiemTra\obj\Debug\BaiKiemTra.exe
+D:\Desktop\Learning Winform\BaiKiemTra\obj\Debug\BaiKiemTra.pdb
